@@ -36,3 +36,5 @@ lerna-debug.log*
 
 #Files
 .env
+dev.env
+e2e.env
