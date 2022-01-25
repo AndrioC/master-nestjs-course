@@ -10,7 +10,7 @@ INSERT INTO
     )
 VALUES
     (
-        NULL,
+        '3',
         'e2e-test',
         '$2b$10$5v5ZIVbPGXf0126yUiiys.z/POxSaus.iSbzXj7cTRW9KWGy5bfcq',
         'e2e@test.com',
@@ -30,7 +30,7 @@ INSERT INTO
     )
 VALUES
     (
-        NULL,
+        '3',
         'That is a crazy event, must go there!',
         '2021-04-15 21:00:00',
         'Local St 101',
@@ -49,7 +49,7 @@ INSERT INTO
     )
 VALUES
     (
-        NULL,
+        '4',
         'That is a nice event, must go there!',
         '2021-04-15 21:00:00',
         'Local St 101',

@@ -10,7 +10,7 @@ INSERT INTO
     )
 VALUES
     (
-        NULL,
+        '2',
         'e2e-test',
         '$2b$10$5v5ZIVbPGXf0126yUiiys.z/POxSaus.iSbzXj7cTRW9KWGy5bfcq',
         'e2e@test.com',
